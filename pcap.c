@@ -1,4 +1,4 @@
-#PCAP 프로그램
+//PCAP 프로그램
 
 #include <pcap.h> 
 #include <stdio.h>
